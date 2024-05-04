@@ -37,5 +37,6 @@ Para executar o programa, você precisa especificar o número de threads como ar
 
 
 Demonstração do código em funcionamento:
+
 ![image](https://github.com/brunoroveri/lab3pt1/assets/142548195/ef5bb2cb-30d1-490d-8f2c-dee044a115ba)
 
