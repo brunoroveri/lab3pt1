@@ -88,3 +88,4 @@ void *Pth_mat_vect(void* rank) {
 }
 # lab3pt1
 # lab3pt1
+# lab3pt1
