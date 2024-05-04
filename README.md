@@ -24,13 +24,18 @@ Envio do arquivo criado para staging area, realização do commit e do push ao r
 ![image](https://github.com/brunoroveri/lab3pt1/assets/142548195/23813105-bd09-4fef-8823-33f741bbfe15)
 
 Instruções para compilação e execução do código:
+
 Compilação:
 Use o compilador gcc para compilar o código. O código utiliza a biblioteca pthread para threads, então é necessário incluir a flag -lpthread:
+
 
 gcc nome_do_arquivo.c -o nome_do_programa -lpthread
 Execução:
 Para executar o programa, você precisa especificar o número de threads como argumento. Por exemplo, para executar o programa com 4 threads:
 
 ./nome_do_arquivo 4
+
+
 Demonstração do código em funcionamento:
-image
+![image](https://github.com/brunoroveri/lab3pt1/assets/142548195/ef5bb2cb-30d1-490d-8f2c-dee044a115ba)
+
