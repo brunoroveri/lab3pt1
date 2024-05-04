@@ -87,3 +87,4 @@ void *Pth_mat_vect(void* rank) {
     return NULL;
 }
 # lab3pt1
+# lab3pt1
